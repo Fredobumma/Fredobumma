@@ -43,13 +43,15 @@ Here are some ideas to get you started:
 
 <br/>
 
+<br/>
+
 ### Feel Free to Contact me.....
 
 <br/>
 
 <p align="center">
-  <a href="https://github.com/Fredobumma"><img alt="github" width="15%" style="padding:10px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
-  <a href="mailto:fredobumma@gmail.com"><img alt="gmail" width="15%" style="padding:10px" src="https://img.icons8.com/clouds/100/null/gmail.png"/></a>
-  <a href="https://www.twitter.com/fredobumma"><img alt="twitter" width="15%" style="padding:10px" src="https://img.icons8.com/clouds/100/null/twitter-circled.png"/></a>
-  <a href="https://www.instagram.com/Fredobumma"><img alt="instagram" width="15%" style="padding:10px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
+  <a href="https://github.com/Fredobumma"><img alt="github" width="10%" style="padding:10px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
+  <a href="mailto:fredobumma@gmail.com"><img alt="gmail" width="10%" style="padding:10px" src="https://img.icons8.com/clouds/100/null/gmail.png"/></a>
+  <a href="https://www.twitter.com/fredobumma"><img alt="twitter" width="10%" style="padding:10px" src="https://img.icons8.com/clouds/100/null/twitter-circled.png"/></a>
+  <a href="https://www.instagram.com/Fredobumma"><img alt="instagram" width="10%" style="padding:10px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
 </p>
