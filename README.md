@@ -23,9 +23,8 @@ Here are some ideas to get you started:
 <br/> 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
- 
 <br/>
-●
+<p>------</p>
 <br/>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
