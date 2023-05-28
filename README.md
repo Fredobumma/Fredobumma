@@ -1,3 +1,5 @@
+<img alt="Header Image" width="100%" height="auto" src="/images/Github.png"/>
+
 ### Hello 👋 Cosmos 🌎🌏🌍, this is my space.
 
 <!--
