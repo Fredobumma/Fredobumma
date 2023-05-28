@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: **fredobumma@gmail.com**.
 - ⚡ Fun fact: **Building a couple of free showcase projects is really boring, I like a real challenge**.
 
-<br/>
-
 ### Feel Free to Contact me.....
 
 <br/>
