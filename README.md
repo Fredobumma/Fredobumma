@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **everything that passes by**.
 - 👯 I’m looking to collaborate on **projects with great potential**.
 - 🤔 I’m looking for help with **a Frontend dev role**.
-- 💬 Ask me about **(JavaScript, ReactJS, JQuery, Firebase, Mongodb, Tailwind)**.
+- 💬 Ask me about **(JavaScript, React, Next, Expo, JQuery, Firebase, Mongodb, Tailwind)**.
 - 📫 How to reach me: **fredobumma@gmail.com**.
 - ⚡ Fun fact: **Building a couple of free showcase projects is really boring, I like a real challenge, get me on your project!!!**.
+- 🙏 Please do not judge me by my public repos, most of my projects are done private!!!
 
 <br/>
 
