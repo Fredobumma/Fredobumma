@@ -10,6 +10,7 @@ Here are some ideas to get you started:
 
 <br/>
 
+- 🥇 NOTE:: Freelancer looking for full-time role, My best projects are not public!!!.
 - 🔭 I’m currently working on **your project {contact me}**.
 - 🌱 I’m currently learning **everything that passes by**.
 - 👯 I’m looking to collaborate on **projects with great potential**.
