@@ -1,3 +1,5 @@
+### I'm more into freelancing than open-source, my best repos for clients are private.
+
 <img alt="Header Image" width="100%" height="auto" src="/images/github.png"/>
 
 ### Hello 👋 Cosmos 🌎🌏🌍, this is my space.
